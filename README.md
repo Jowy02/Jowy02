@@ -78,3 +78,8 @@ introducing mechanics and increasing the complexity of the puzzles.
 **Focus:** `Level Design` · `Puzzle Design` · `Game Design` · `Kishotenketsu` · `Baba Is You Editor`
 
 🔗 **[View the full project →](https://github.com/Jowy02/Puzzles---Baba-Is-You)**
+
+## 🔭 Currently Working On
+
+-  **VR/AR Project** — Developing a VR/AR experience, focusing on interactive systems and immersive gameplay.
+-  **Inventory System — Unity** — Developing a modular inventory system inspired by the original *Resident Evil* games, focusing on grid-based item management, item interactions, and gameplay systems.
